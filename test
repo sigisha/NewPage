@@ -1,0 +1,13 @@
+using System;
+
+namespace Test;
+
+  class Test{
+  
+    void Main(){
+    
+    Console.WriteLine("This is a test");
+    
+    }
+  
+  }
